@@ -1,4 +1,9 @@
 body {
-    background-color: lightsalmon;
-    color: lavenderblush;
+    background-color: rgb(122, 228, 255);
+    color: rgb(114, 100, 104);
+}
+h1, h2 {
+    text-align: center;
+    margin: 1em;
+    padding: .5em;
 }
